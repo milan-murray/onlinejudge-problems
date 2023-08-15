@@ -1,0 +1,10 @@
+['Smith, M.N.', 'Martin, G.', 'Erdos, P.']
+[<__main__.Node object at 0x7f427f3e8130>, <__main__.Node object at 0x7f427f3e8e20>, <__main__.Node object at 0x7f427f3e8d30>]
+['Erdos, P.', 'Reisig, W.']
+[<__main__.Node object at 0x7f427f3e8d30>, <__main__.Node object at 0x7f427f3e8fa0>]
+['Smith, M.N.', 'Chen, X.']
+[<__main__.Node object at 0x7f427f3e8130>, <__main__.Node object at 0x7f427f3e8ca0>]
+['Jablonski, T.', 'Hsueh, Z.']
+[<__main__.Node object at 0x7f427f3e8c40>, <__main__.Node object at 0x7f427f3e8b80>]
+Scenario 1
+
